@@ -18,7 +18,6 @@
 
 ## Screenshot
 
-    ```md
-    ![](assets/images/screenshot.png)
-    ```
+  ![](assets/images/screenshot.png)
+
   
